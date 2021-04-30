@@ -1,4 +1,4 @@
-# ELK-STACK-PROJECT
+CLOUD SECURITY PROJECT
 This is my first project which dealt with the ELK stack and ansible.
 ## Automated ELK Stack Deployment
 
